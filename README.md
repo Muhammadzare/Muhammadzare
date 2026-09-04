@@ -1,4 +1,4 @@
-# Hi there, I'm [Muhammad Zare] 📊 - CS Student & Aspiring Data Specialist
+# Hi there, I'm [Muhammad Zare]-CS Student & Aspiring Data Specialist📊
 
 bridging the gap between mathematical theory and practical data mining using Python.
 
