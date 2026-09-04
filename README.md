@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm [Muhammad Zare] 📊 - CS Student & Aspiring Data Specialist
 
-<!--
-**Muhammadzare/Muhammadzare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+bridging the gap between mathematical theory and practical data mining using Python.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Highlights & Active Learning
+- 🔍 **Data Mining:** Extracting insights, anomaly detection, and clustering techniques.
+- 🧮 **Mathematical Modeling:** Connecting theoretical statistics and linear algebra to Python implementations.
+- 🛠️ **Projects:** Check out my pinned repositories below for my latest analysis and code experiments.
+
+---
+
+### 🧰 Toolkit
+`Python` • `Data Mining` • `Applied Math` • `Jupyter` • `Git` •`Linux`
+
+---
+
+### 📬 Connect With Me
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- ✉️ [Email](mailto:mammad.7123456789@gmail.com)
